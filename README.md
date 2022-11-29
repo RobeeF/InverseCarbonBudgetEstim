@@ -1,6 +1,6 @@
 # Carbon Budget Estimation using model inversion
 <div align="center">
-  <img src="images/front_img.png" alt="approach_schema" width=70%/>
+  <img src="front_img.png" alt="approach_schema" width=70%/>
 </div>
 
 Code to replicate the results of Baumas, Fuchs et al. (2023): "Reconstructing the ocean’s mesopelagic zone carbon budget: sensitivity and estimation of parameters associated with prokaryotic remineralization".
