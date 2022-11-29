@@ -3,6 +3,8 @@
   <img src="front_img.png" alt="approach_schema" width=70%/>
 </div>
 
+<br/>
+
 Code to replicate the results of Baumas, Fuchs et al. (2023): "Reconstructing the ocean’s mesopelagic zone carbon budget: sensitivity and estimation of parameters associated with prokaryotic remineralization".
 
 This repository is not a stand-alone package. It just hosts the code necessary to replicate the results.
