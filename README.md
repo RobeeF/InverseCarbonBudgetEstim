@@ -1,4 +1,7 @@
 # Carbon Budget Estimation using model inversion
+
+![Zenodo doi badge](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.8412947-blue.svg)
+
 <div align="center">
   <img src="front_img.png" alt="approach_schema" width=70%/>
 </div>
